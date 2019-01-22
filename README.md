@@ -1,2 +1,2 @@
-# stuff
-This is a repo of side projects
+## Stuff
+This is a repo for random stuff go to [my website](http://mayojar.co.nf) <-----
